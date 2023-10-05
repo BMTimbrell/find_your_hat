@@ -11,4 +11,4 @@ avoiding holes, in order to reach the hat.
 
 This game was written in Javascript and uses Node.js. It uses `process.stdin` 
 to get user input, and uses `process.argv` so you can enter a width and height for 
-the field. I used Math.random() to generate a random field.
+the field. I used `Math.random()` to generate a random field.
